@@ -30,6 +30,7 @@ public class RobotContainer {
   // SUBSYSTEMS
   public final SwerveSpinners SWERVESPINNERS = new SwerveSpinners();
   public final SwerveRotaters SWERVEROTATERS = new SwerveRotaters();
+  public final PistonReel PISTONREEL = new PistonReel();
 
   
   public RobotContainer() {
